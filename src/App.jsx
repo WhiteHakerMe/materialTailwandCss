@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Button className=''> Hello Worlds</Button>
+      <Button className=' bg-black text-white'> Hello Worlds</Button>
     </>
   )
 }
